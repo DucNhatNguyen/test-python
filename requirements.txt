@@ -30,3 +30,4 @@ typing_extensions
 ujson
 watchfiles
 websockets
+sqlalchemy
